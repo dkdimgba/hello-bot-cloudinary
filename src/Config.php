@@ -10,8 +10,7 @@ Class Config {
 
     'verifyToken' => 'coinmentor',
 
-    'accessToken' => 'EAAUfTVwnitUBAJxTMzZBJ59ZCAKz9d2QFuzX8sZBAZBcJlCtFdMh5Xb7YiEj9BL7pYiNvKdl0LtRwLqAZCfYdd30Bwg0x6oETk2ldqKgFzpSnQYndx9boB6Jlmgp2cYZCvnNwJAjRVpDahCIWrbLLbZCgGDZAcbAQQghyHu1PZCDeSSbDABiT10Oo'
-
+    'accessToken' => 'EAAS4BTFvwwIBAEjQtRzhElxoWPjdEZA2pTj4Gg8C8OpW7ZBPxLv7jm80MqkWr9ZACE2zUQq1n1D5ez4OLkiaOUGeG2OVzDfxmabFYTZBoZCBKZArrDAz4ZCxrfYgASBwKdcC3kRC0zPcZAz2uniwzXsdEYqqsizcjm6XL8bvE88jrgZDZD'
   ];
 
    
